@@ -14,9 +14,45 @@ div{
 .richard-rios-flamengo{
     width: 300px;
     height: 200px;
+    margin-right: 0px;
+    border-radius: 10px;
 }
 
 .richard-rios-guarani{
     width: 300px;
     height: 200px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+
+.richard-rios-palmeiras{
+    width: 300px;
+    height: 200px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+h4 {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h5 {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
 }
