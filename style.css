@@ -1,0 +1,22 @@
+a:hover {
+    color: rgb(7, 218, 207);
+}
+
+a {
+    padding: 40px;
+    color: rgb(7, 109, 53);
+}
+
+div{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.richard-rios-flamengo{
+    width: 300px;
+    height: 200px;
+}
+
+.richard-rios-guarani{
+    width: 300px;
+    height: 200px;
+}
