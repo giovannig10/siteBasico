@@ -4,7 +4,7 @@ a:hover {
 
 a {
     padding: 40px;
-    color: rgb(7, 109, 53);
+    color: rgb(248, 248, 248);
 }
 
 div{
@@ -34,41 +34,35 @@ div{
     border-radius: 10px;
 }
 
-h1{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 40px;
-}
-
-h2{
+.historia-richard-rios{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
+    color: rgb(5, 5, 5);
+    text-align: center;
+    padding: 50px;
+}
+
+.clubes-onde-passou{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
     padding-top: 50px;
+    color: rgb(5, 5, 5);
+    text-align: center;
 }
 
 h3 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
-    display: flex;
-    justify-content: space-between;
-    margin-top: 20px;
-    padding-top: 50px;
-    padding-bottom: 10px;
 }
 
 h4 {
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
-    padding-top: 50px;
-    padding-bottom: 25px;
 }
 
 h5 {
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
-    padding-top: 50px;
-    padding-bottom: 25px;
 }
 
 .historia .texto-historia{
@@ -94,4 +88,101 @@ h5 {
     height: 380px;
     margin-right: 0px;
     border-radius: 10px;
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url(img2/richard-rios-fundo.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: rgb(255, 255, 255); 
+}
+
+.flamengo {
+    text-align: center;
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0.7); 
+    max-width: 800px;
+    margin: 100px auto;
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* add sombra */
+}
+
+.guarani {
+    text-align: center;
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 800px;
+    margin: 100px auto; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
+.palmeiras {
+    text-align: center;
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0.7); 
+    max-width: 800px;
+    margin: 100px auto;
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
+.historia {
+    text-align: center;
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 800px;
+    margin: 100px auto; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
+.menu-horizontal{
+    
+    top: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 15px 0;
+    z-index: 1000; /* para garantir que o menu fique sobre a faixa */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+
+}
+
+.sobre{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: rgb(5, 5, 5);
+    text-align: center;
+    padding: 50px;
+}
+
+.Biografia-pessoal{
+    text-align: center;
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 800px;
+    margin: 100px auto; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.resumo-profissional{
+    text-align: center;
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 800px;
+    margin: 100px auto; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
 }
