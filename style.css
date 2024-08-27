@@ -228,3 +228,24 @@ body {
     margin-right: 0px;
     border-radius: 10px;
 }
+
+.forms{
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.7); 
+}
+
+.forms button{
+    background-color: rgb(163, 163, 163);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    padding: 4px;
+}
+
+.forms button:hover{
+    background-color: rgb(63, 179, 18);
+}
+
+.forms textarea{
+    width: calc(100% - 50px);
+    padding: 5px;
+}
