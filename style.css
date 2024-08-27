@@ -249,3 +249,34 @@ body {
     width: calc(100% - 50px);
     padding: 5px;
 }
+
+.video{
+    text-align: center;
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 800px;
+    margin: 100px auto; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.desenvolvedor {
+    text-align: center;
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 800px;
+    margin: 100px auto; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+.desenvolvedor img {
+    width: 400px;
+    height: 525px;
+    margin-right: 0px;
+    border-radius: 10px;
+}
